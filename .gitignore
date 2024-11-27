@@ -1,0 +1,11 @@
+public
+public_html
+public_ctrl-c
+site
+venv
+.venv
+.cache
+node_modules
+.env
+*.tar.gz
+gmi/api/commit
